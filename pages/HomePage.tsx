@@ -10,12 +10,12 @@ const HomePage: React.FC = () => {
   const HERO_SLIDES = [
     {
       id: 1,
-      image: "/rsc/images/8fdb252c357c2de1066b1e4444df6da97469ec4ceda8813d8084bf45816e41a5.png",
+      image: "/rsc/images/Photo-262-1b8cce7c.jpeg",
       position: "center"
     },
     {
       id: 2,
-      image: "/rsc/images/4509f351aa63776e26b2df74735b1a09-49f724a4-1000.jpg",
+      image: "/rsc/images/Photo-97-f2b2bc2c.jpeg",
       position: "center"
     },
     {
